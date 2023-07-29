@@ -64,9 +64,10 @@
 
 My learning journey never stops! Currently, I'm diving deep into the following areas:
 
-- Advanced Frontend Development with React and Vue.js.
-- Backend Development with Express.js and Django.
+- Advanced Frontend Development with React and Type Script.
+- Backend Development with PHP & Python.
 - Cybersecurity and Penetration Testing techniques.
+- Red Team Ethical Hacker
 
 ## 🎯 Goals
 
