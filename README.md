@@ -59,18 +59,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cyber-bytezz&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Projects
-
-Here are some of the exciting projects I'm working on:
-
-1. **Awesome Web Project**: A cutting-edge web application built using React and Node.js. This project aims to revolutionize the way we interact with technology.
-
-2. **Ethical Hacking CTF**: A Capture The Flag (CTF) challenge where participants can test their ethical hacking skills and learn new techniques.
-
-3. **IoT Security Research**: Investigating the security vulnerabilities of IoT devices and proposing countermeasures to protect against potential attacks.
-
-Feel free to explore my GitHub repositories to find more fascinating projects!
-
+ 
 ## 📚 Learning Journey
 
 My learning journey never stops! Currently, I'm diving deep into the following areas:
